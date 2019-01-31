@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using MeuTrabalho.Models;
 using Microsoft.AspNetCore.Mvc;
-using MeuTrabalho.Models;
+using System;
 using System.Data.SqlClient;
 
 namespace MeuTrabalho.Controllers
